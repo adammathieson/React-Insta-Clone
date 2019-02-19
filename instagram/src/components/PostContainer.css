@@ -1,0 +1,12 @@
+.post-con-header {
+    display: flex;
+    max-height: 60px;
+    width: 66%;
+    padding: 20px;
+}
+
+.thumbnail {
+    border-radius: 50%;
+    height: 30px;
+    width: 30px; 
+}
