@@ -3,19 +3,20 @@ import dummyData from './dummy-data';
 import './App.css';
 
 import PostContainer from "./components/PostContainer";
-
+// import SearchBar from "./components/SearchBar";
 
 class App extends Component {
   constructor() {
     super();
     this.state = {
-      dummyData: dummyData
+      posts: dummyData
     };
   }
   render() {
     return (
       <div className="App">
-        <PostContainer data={this.state.dummyData} />
+        {/* <SearchBar /> */}
+        <PostContainer posts={this.state.posts} />
       </div>
     );
   }
