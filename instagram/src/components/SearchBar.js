@@ -1,9 +1,9 @@
 // import React from "react";
-// import InstaLogo from "./Images/iglogo";
+// import Instagram from "./Images/instagram-logo-png-text";
 // const SearchBar = () => {
 //     return (
 //         <div>
-//             <img alt="instagram logo" src={InstaLogo}></img>
+//             <img alt="instagram logo" src={Instagram}></img>
 //         </div>
 
 //     )

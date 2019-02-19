@@ -38,10 +38,10 @@
     <meta property="og:image" content="https://avatars3.githubusercontent.com/u/46367966?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="adammathieson/React-Insta-Clone" /><meta property="og:url" content="https://github.com/adammathieson/React-Insta-Clone" /><meta property="og:description" content="Contribute to adammathieson/React-Insta-Clone development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzcyMzk3Mzk1OjA1N2M2ZjE5N2YxMzBhMDI1ODFjOGQ0N2ViYzUyMTEyZTQwN2I2ZWJiM2IzNjFkZjhlMzk0MGFlYTY2Y2E2ZWE=--361487242a5c89864e9e511148a01923960cfba0">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MzcyMzk3Mzk1OjVjZDk5Y2Y3NjZhNWU2NjVhOTM1ZTMzMzM5MjQyNzEwMWE4Y2Y1YjZjNDI1ZDU5MTZhMzYxMTBiNTY0MDhkNmM=--cfb6074e338807204706e74296244efffc5f48a1">
   <meta name="pjax-timeout" content="1000">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
-  <meta name="request-id" content="D574:955B:3650D8A:5256ACC:5C6B348E" data-pjax-transient>
+  <meta name="request-id" content="F5A3:653B:32B77F6:4CA12BD:5C6B56F2" data-pjax-transient>
 
 
   
@@ -52,7 +52,7 @@
     <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-site-verification" content="GXs5KoUUkNCoaAZn7wPN-t01Pywp9M3sEjnt_3_ZWPc">
 
-  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="D574:955B:3650D8A:5256ACC:5C6B348E" /><meta name="octolytics-dimension-region_edge" content="sea" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="46367966" /><meta name="octolytics-actor-login" content="adammathieson" /><meta name="octolytics-actor-hash" content="a41ff54a6b3ffa54dc8e0d935927bf36c81278b89dce56366af1b5c3d49c3f8e" />
+  <meta name="octolytics-host" content="collector.githubapp.com" /><meta name="octolytics-app-id" content="github" /><meta name="octolytics-event-url" content="https://collector.githubapp.com/github-external/browser_event" /><meta name="octolytics-dimension-request_id" content="F5A3:653B:32B77F6:4CA12BD:5C6B56F2" /><meta name="octolytics-dimension-region_edge" content="sea" /><meta name="octolytics-dimension-region_render" content="iad" /><meta name="octolytics-actor-id" content="46367966" /><meta name="octolytics-actor-login" content="adammathieson" /><meta name="octolytics-actor-hash" content="a41ff54a6b3ffa54dc8e0d935927bf36c81278b89dce56366af1b5c3d49c3f8e" />
 <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" />
 
 
@@ -71,7 +71,7 @@
     <meta name="user-login" content="adammathieson">
 
       <meta name="expected-hostname" content="github.com">
-    <meta name="js-proxy-site-detection-payload" content="MmE3NGUyOTc0YjE4NzhhOGMzMDM5NTc1MDAyNzFlZmQyYTA4ZmRhMDFiMmRlNDY4YTAwNmY3YzA5NWU5ZDUxY3x7InJlbW90ZV9hZGRyZXNzIjoiNzMuMTQwLjI0OS4xNCIsInJlcXVlc3RfaWQiOiJENTc0Ojk1NUI6MzY1MEQ4QTo1MjU2QUNDOjVDNkIzNDhFIiwidGltZXN0YW1wIjoxNTUwNTI5NzE2LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
+    <meta name="js-proxy-site-detection-payload" content="N2Y0MTVhNWFkZmQ4NDQ5YmEyMDI4MDQ2MzU2NzczZTViMzkwYWZiOTNhYmUxNjdjYjU1NzM0YzQ4MjI3ZDRjYnx7InJlbW90ZV9hZGRyZXNzIjoiNzMuMTQwLjI0OS4xNCIsInJlcXVlc3RfaWQiOiJGNUEzOjY1M0I6MzJCNzdGNjo0Q0ExMkJEOjVDNkI1NkYyIiwidGltZXN0YW1wIjoxNTUwNTM4NDg4LCJob3N0IjoiZ2l0aHViLmNvbSJ9">
 
     <meta name="enabled-features" content="UNIVERSE_BANNER,MARKETPLACE_PLAN_RESTRICTION_EDITOR,NOTIFY_ON_BLOCK,RELATED_ISSUES,MARKETPLACE_BROWSING_V2,MARKETPLACE_INSIGHTS_V2">
 
@@ -157,7 +157,7 @@
           aria-autocomplete="list"
           aria-controls="jump-to-results"
           aria-label="Search or jump to…"
-          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=Q4+4W5UsDJqaz4ReLV7jOgU/uXGgBVmecc4wWPpRDRO8wSf4wYV7D2A+wCR2KuYgUr6n6PQIP5l8Oa2JR3X+Sw=="
+          data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations#csrf-token=oxffVUKU2wKw747nWcPKolsfebiyOeaQKUstg+KupjlcWUD2Fj2sl0oeyp0Ct8+4DJ5nIeY0gJckvLBSX4pVYQ=="
           spellcheck="false"
           autocomplete="off"
           >
@@ -372,7 +372,7 @@
           
 <div class="js-user-status-container user-status-compact" data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
-    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:46367966,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:46367966,&quot;client_id&quot;:&quot;1860842626.1549917674&quot;,&quot;originating_request_id&quot;:&quot;D574:955B:3650D8A:5256ACC:5C6B348E&quot;,&quot;originating_url&quot;:&quot;https://github.com/adammathieson/React-Insta-Clone/blob/day-1-solution/instagram/src/assets/iglogo.png&quot;}}" data-hydro-click-hmac="dd59b0ff2e6525373696f92406ff81eb503566491e3ef17752c6cddba9e926fd">
+    <summary class="btn-link no-underline js-toggle-user-status-edit toggle-user-status-edit width-full" aria-haspopup="dialog" role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:46367966,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:46367966,&quot;client_id&quot;:&quot;1860842626.1549917674&quot;,&quot;originating_request_id&quot;:&quot;F5A3:653B:32B77F6:4CA12BD:5C6B56F2&quot;,&quot;originating_url&quot;:&quot;https://github.com/adammathieson/React-Insta-Clone/blob/day-1-solution/instagram/src/assets/iglogo.png&quot;}}" data-hydro-click-hmac="b67cfc254d0a733a87fb9cd90bea0f4ff6767851f097a334b289bb73a061da56">
       <div class="f6 d-inline-block v-align-middle  user-status-emoji-only-header pl-0 circle lh-condensed user-status-header " style="max-width: 29px">
         <div class="user-status-emoji-container flex-shrink-0 mr-1">
           <svg class="octicon octicon-smiley" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8s3.58 8 8 8 8-3.58 8-8-3.58-8-8-8zm4.81 12.81a6.72 6.72 0 0 1-2.17 1.45c-.83.36-1.72.53-2.64.53-.92 0-1.81-.17-2.64-.53-.81-.34-1.55-.83-2.17-1.45a6.773 6.773 0 0 1-1.45-2.17A6.59 6.59 0 0 1 1.21 8c0-.92.17-1.81.53-2.64.34-.81.83-1.55 1.45-2.17.62-.62 1.36-1.11 2.17-1.45A6.59 6.59 0 0 1 8 1.21c.92 0 1.81.17 2.64.53.81.34 1.55.83 2.17 1.45.62.62 1.11 1.36 1.45 2.17.36.83.53 1.72.53 2.64 0 .92-.17 1.81-.53 2.64-.34.81-.83 1.55-1.45 2.17zM4 6.8v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2H5.2C4.53 8 4 7.47 4 6.8zm5 0v-.59c0-.66.53-1.19 1.2-1.19h.59c.66 0 1.19.53 1.19 1.19v.59c0 .67-.53 1.2-1.19 1.2h-.59C9.53 8 9 7.47 9 6.8zm4 3.2c-.72 1.88-2.91 3-5 3s-4.28-1.13-5-3c-.14-.39.23-1 .66-1h8.59c.41 0 .89.61.75 1z"/></svg>
@@ -382,7 +382,7 @@
           <span class="link-gray">Set your status</span>
       </div>
 </summary>    <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="gfUQqWqrkZ8oc019Pigc+JeBUrDSA5qJMGa2jHPWYw/SuQUQchzIhlhdrig+gzlL05w4UG2asNkrHXFWpwI1qQ==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="0SdhFiy1tdb8dueefH9yAwHl/DFkVmt9VxqiEx+vSc2Ca3SvNALsz4xYBMt81FewRfiW0dvPQS1MYWXJy3sfaw==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -498,7 +498,7 @@
         <div role="none" class="dropdown-divider"></div>
         <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
         <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Ei2A6yMI5xslvwydd2cc1AzZ3tj0yk3Rec+dhCHKUQqLX9iKVB3yDorXwoyEQatek07hooL7bxNDy96o886KJw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="S3y+p6mQQFfCxNPxaDDT7J/w4QD7jROIbltICDPgozzSDubG3oVVQm2sHeCbFmRmAGfeeo28MUpUXwsk4eR4EQ==" />
           
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
             Sign out
@@ -510,7 +510,7 @@
 
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="ANPdU60WQMgxlwjG32HdkfMjfgtaBH+GjEBRW/rPj86ZoYUy2gNV3Z7/xtcsR2obbLRBcSw1XUS2RBJ3KMtU4w==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="sr-only right-0" action="/logout" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FRjj7ju9E9fWv4hsrFqvEDqmlldjQ/RsjIkv3rm6CF6MaruPTKgGwnnXRn1ffBiapTGpLRVy1q62jWzya77Tcw==" />
           <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -549,7 +549,7 @@
       <ul class="pagehead-actions">
 
   <li>
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="MaEN3eDFUteH50FqAHhq9+2DNVFBgeru5zp0bgjqf8AO8Ybk45IlCxOmx2oCzRPhJrQzq13QA6+axDEzexA+tw==" />      <input type="hidden" name="repository_id" id="repository_id" value="171352757" class="form-control" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Xuzg5RAc4qE+XPl+a353FXK4txpZpFgRKVLHkDO2SkZhvGvcE0uVfaodf35pyw4DuY+x4EX1sVBUrILNQEwLMQ==" />      <input type="hidden" name="repository_id" id="repository_id" value="171352757" class="form-control" />
 
       <details class="details-reset details-overlay select-menu float-left">
         <summary class="btn btn-sm btn-with-count select-menu-button" data-ga-click="Repository, click Watch settings, action:blob#show">
@@ -623,7 +623,7 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/adammathieson/React-Insta-Clone/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1Qy6JWu0Is1ihLro/CRh0zUIHqfLUWYU9pyLhA/EqUb2094GJdYeJMYbJ0o1I9QtSt2s0IkvW37+Loh65tP2DA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="starred js-social-form" action="/adammathieson/React-Insta-Clone/unstar" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Lt6hzl5j9dbmIkLkjHZbA0/m89CqNIl88Q+dArBWdJQNAcXtEAHJP0K930ZFce79MDNBp+hKtBb5vZ78WUEr3g==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -638,7 +638,7 @@
           0
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/adammathieson/React-Insta-Clone/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="xvyZKh3Dr7wfZW5klLUN4GY/K5vzsVBKsfSUvdINzPpkBNEucksYL/2hbUrXUJ1nffarDTCvS9tqaX29w/CPEA==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="unstarred js-social-form" action="/adammathieson/React-Insta-Clone/star" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="hbhu8l8DSkIbhXbBwIVvq15B6iAYIhH42ypDjSj0G28nQCb2MIv90flBde+DYP8sRYhqtts8CmkAt6qNOQlYhQ==" />
       <input type="hidden" name="context" value="repository"></input>
       <button
         type="submit"
@@ -719,7 +719,7 @@
     <a data-hotkey="g p" itemprop="url" class="js-selected-navigation-item reponav-item" data-selected-links="repo_pulls checks /adammathieson/React-Insta-Clone/pulls" href="/adammathieson/React-Insta-Clone/pulls">
       <svg class="octicon octicon-git-pull-request" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
-      <span class="Counter">0</span>
+      <span class="Counter">1</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
@@ -867,7 +867,7 @@
             <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
         </a>
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/adammathieson/React-Insta-Clone/delete/day-1-solution/instagram/src/assets/iglogo.png" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="Jq1kzXcaVAN0CAdw0XWPCGi+Uj6+t15SEQ/7k6aN0NQ9xiwRv/GeEBVKn/h6t8ZU1CgUnPJ6JNWff/iCyIOjIg==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/adammathieson/React-Insta-Clone/delete/day-1-solution/instagram/src/assets/iglogo.png" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="iGEuO6nj57Z8ixoCbrGse62jctEnv7njdI/dxzMmOf6TCmbnYQgtpR3JgorFc+UnETU0c2tyw2T6/97WXShKCA==" />
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -916,7 +916,7 @@
 <div class="footer container-lg px-3" role="contentinfo">
   <div class="position-relative d-flex flex-justify-between pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
     <ul class="list-style-none d-flex flex-wrap ">
-      <li class="mr-3">&copy; 2019 <span title="0.24136s from unicorn-779c7cf9dc-sfb22">GitHub</span>, Inc.</li>
+      <li class="mr-3">&copy; 2019 <span title="0.23923s from unicorn-5d944f4855-wd7sj">GitHub</span>, Inc.</li>
         <li class="mr-3"><a data-ga-click="Footer, go to terms, text:terms" href="https://github.com/site/terms">Terms</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to privacy, text:privacy" href="https://github.com/site/privacy">Privacy</a></li>
         <li class="mr-3"><a data-ga-click="Footer, go to security, text:security" href="https://github.com/security">Security</a></li>

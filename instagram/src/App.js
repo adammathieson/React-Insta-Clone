@@ -11,12 +11,16 @@ class App extends Component {
     this.state = {
       posts: dummyData
     };
+    console.log(this.state.posts)
   }
+
   render() {
     return (
       <div className="App">
+      
+      {this.state.posts.map(post => <PostContainer key={post.timestamp} post={post} />)}
         {/* <SearchBar /> */}
-        <PostContainer posts={this.state.posts} />
+        <PostContainer post={this.state.posts}/>
       </div>
     );
   }
