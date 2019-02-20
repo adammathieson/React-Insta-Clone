@@ -1,18 +1,17 @@
 import React from "react";
 import "./PostContainer.css";
+import Comment from "./Comment";
 
 const CommentSection = props => {
 console.log(props)
     return (
         <div className="comment-section">
-            {props.comments.map(c => 
-                <div className="comment-box">
-                    <p className="username">{c.username}</p>
-                    <p className="text">{c.text}</p>
-                    {/* {id=c.imageUrl} */}
-                </div>
-                )}
-                <input type="text" className="add-comment" placeholder="Add a comment..."></input>
+            {props.comments.map(comment => 
+                <Comment 
+                    key={Math.random().toString(36).replace('0.', '')} 
+                    comment={comment} /> 
+                    )}              
+            <input type="text" className="add-comment" placeholder="Add a comment..."></input>
         </div>
     )
 }
