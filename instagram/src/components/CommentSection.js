@@ -10,8 +10,9 @@ class CommentSection extends React.Component {
             commentText: ""
         };
     }
+
 handleChanges = (e) => {
-    this.setState({ commentText: e.target.value})
+    this.setState({ commentText: e.target.value })
 }
 
 addNewComment = e => {
