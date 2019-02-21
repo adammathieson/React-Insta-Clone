@@ -6,6 +6,8 @@ import "./PostContainer.css";
 import like from "./Images/like.png";
 import chat from "./Images/chat.png";
 
+
+
 const PostContainer = props => {
     return (
         <div className="post-container">
@@ -15,7 +17,7 @@ const PostContainer = props => {
             </div>
             <img alt="post" src={props.post.imageUrl}></img>
             <div className="actions">
-                <img alt="like icon" className="action-icon" src={like}></img>
+                <img alt="like icon" className="action-icon" src={like} onClick={this.addLike}></img>
                 <img alt="chat icon" className="action-icon" src={chat}></img>
             </div>
             <div className="likes">{props.post.likes} likes</div>
@@ -23,6 +25,13 @@ const PostContainer = props => {
         </div>
     );
 };
+
+addLike = e => {
+    e.preventDefault();
+    const prevLikes = this.props.post.likes;
+    const newLikes = prevLikes + 1;
+    
+}
     
 // PostContainer.PropTypes = {
 //     post: PropTypes.arrayOf(
