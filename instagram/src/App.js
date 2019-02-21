@@ -21,7 +21,7 @@ class App extends Component {
   render() {
     return (
       <div className="App">
-        <SearchBar />
+        <SearchBar data={this.state.posts} />
         {this.state.posts.map(post => <PostContainer key={post.imageUrl} post={post} />)}
       </div>
     );
