@@ -1,10 +1,15 @@
 import React from "react";
+
+
+import {WrapperDiv, LogoBoxDiv, IconBoxDiv, Input, ImgLogo, ImgIcon} from "./Styled/Styled";
+
 import instagramCam from "./Images/instagram.png";
 import instagramLogo from "./Images/Instagram-logo-png-text.png";
 import compass from "./Images/compass.png";
 import like from "./Images/like.png";
 import user from "./Images/user.png";
-import "./SearchBar.css";
+
+
 
 class SearchBar extends React.Component {
     constructor(props) {
@@ -14,23 +19,31 @@ class SearchBar extends React.Component {
             search: ""
         }
     }
-    
+
     render() {
         return (
-            <div className="search-bar-container">
-                <div className="logos-box">
-                    <img className="logos-item" alt="instagram camera logo" src={instagramCam}></img>
-                    <img className="logos-item" alt="instagram name logo" src={instagramLogo}></img>
-                </div>
-                <input type="search" className="search-bar" placeholder="Search"></input>
-                <div className="icons-box">
-                    <img className="icon" alt="compass icon" src={compass}></img>
-                    <img className="icon" alt="like icon" src={like}></img>
-                    <img className="icon" alt="user icon" src={user}></img>
-                </div>
-            </div>
+            <WrapperDiv>
+                <LogoBoxDiv>
+                    <ImgLogo alt="instagram camera logo" src={instagramCam}></ImgLogo>
+                    <ImgLogo alt="instagram name logo" src={instagramLogo}></ImgLogo>
+                </LogoBoxDiv>
+                <Input 
+                    type="search" 
+                    className="search-bar" 
+                    placeholder="Search">
+                </Input>
+                <IconBoxDiv>
+                    <ImgIcon alt="compass icon" src={compass}></ImgIcon>
+                    <ImgIcon alt="like icon" src={like}></ImgIcon>
+                    <ImgIcon alt="user icon" src={user}></ImgIcon>
+                </IconBoxDiv>
+            </WrapperDiv>
+
+            
         )
     }
 }
+
+
 
 export default SearchBar

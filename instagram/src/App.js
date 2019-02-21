@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import dummyData from './dummy-data';
 import './App.css';
-import "./components/SearchBar.css";
 
 import PostContainer from "./components/PostContainer";
 import SearchBar from "./components/SearchBar";
@@ -27,5 +26,7 @@ class App extends Component {
     );
   }
 }
+
+// const ComponentFromWithAuthenticate = withAuthenticate(PostsPage)(LoginPage);
 
 export default App;

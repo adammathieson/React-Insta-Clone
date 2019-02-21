@@ -1,5 +1,6 @@
 import React from "react";
-import "./PostContainer.css";
+
+import {AddCommentInput} from "./Styled/Styled";
 import Comment from "./Comment";
 
 class CommentSection extends React.Component {
@@ -29,21 +30,21 @@ addNewComment = e => {
 
     render() {
     return (
-        <div className="comment-section">
+        <div>
             {this.state.comments.map((comment, i) =>
                 <Comment
                     key={i}
                     comment={comment} />
                     )}
             <form onSubmit={this.addNewComment}>
-                <input
+                <AddCommentInput
                     type="text"
                     value={this.state.commentText}
                     name="Add comment"
                     onChange={this.handleChanges}
                     className="add-comment"
                     placeholder="Add a comment...">
-                </input>
+                </AddCommentInput>
             </form>             
             
         </div>

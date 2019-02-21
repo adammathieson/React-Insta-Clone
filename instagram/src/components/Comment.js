@@ -1,12 +1,15 @@
 import React from "react";
-import "./PostContainer.css";
+
+import {CommentDiv, UsernameP} from "./Styled/Styled";
+
+// import "./PostContainer.css";
 
 const Comment = props => {
     return (
-        <div className="comment-box">
-            <p className="username">{props.comment.username}</p>
+        <CommentDiv>
+            <UsernameP>{props.comment.username}</UsernameP>
             <p className="text">{props.comment.text}</p>
-    </div>
+        </CommentDiv>
     )
 }
 

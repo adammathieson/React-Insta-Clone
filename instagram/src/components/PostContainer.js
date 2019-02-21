@@ -1,16 +1,19 @@
 import React from "react";
+
+import {PostWrapper} from "./Styled/Styled";
 import CommentSection from "./CommentSection";
 import Post from "./Post";
-import "./PostContainer.css";
+
+
 // import PropTypes from 'prop-types';
 
 
 const PostContainer = props => {
     return (
-        <div className="post-container">
+        <PostWrapper>
             <Post post={props.post}/>
             <CommentSection comments={props.post.comments}/>
-        </div>
+        </PostWrapper>
     );
 };
 
