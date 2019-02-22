@@ -14,14 +14,13 @@ class App extends Component {
       search: ""
     };
   }
-  
-//   componentDidMount() {
-//     this.setState({ posts: dummyData })
-// }
+
+  componentDidMount() {
+    this.setState({ posts: dummyData })
+}
 
 filterSearch = (e, searchValue) => {
   e.preventDefault();
-  
   const filteredSearch = this.state.posts.filter(post => post.username.includes(searchValue));
   console.log(filteredSearch);
   this.setState({ posts: filteredSearch})
