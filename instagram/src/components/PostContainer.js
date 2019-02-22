@@ -1,28 +1,23 @@
 import React from "react";
+
+import {PostWrapper} from "./Styled/Styled";
 import CommentSection from "./CommentSection";
-import "./PostContainer.css";
+import Post from "./Post";
+
+
 // import PropTypes from 'prop-types';
 
-import like from "./Images/like.png";
-import chat from "./Images/chat.png";
 
 const PostContainer = props => {
     return (
-        <div className="post-container">
-            <div className="post-con-header">
-                <img className="thumbnail" alt="thumbnail" src={props.post.thumbnailUrl}></img>
-                <h2>{props.post.username}</h2>
-            </div>
-            <img alt="post" src={props.post.imageUrl}></img>
-            <div className="actions">
-                <img alt="like icon" className="action-icon" src={like}></img>
-                <img alt="chat icon" className="action-icon" src={chat}></img>
-            </div>
-            <div className="likes">{props.post.likes} likes</div>
+        <PostWrapper>
+            <Post post={props.post}/>
             <CommentSection comments={props.post.comments}/>
-        </div>
+        </PostWrapper>
     );
 };
+
+
     
 // PostContainer.PropTypes = {
 //     post: PropTypes.arrayOf(
