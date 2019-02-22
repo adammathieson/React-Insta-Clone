@@ -10,17 +10,27 @@ class App extends Component {
   constructor() {
     super();
     this.state = {
-      posts: []
+      posts: dummyData,
+      search: ""
     };
   }
-  componentDidMount() {
-    this.setState({ posts: dummyData })
+  
+//   componentDidMount() {
+//     this.setState({ posts: dummyData })
+// }
+
+filterSearch = (e, searchValue) => {
+  e.preventDefault();
+  
+  const filteredSearch = this.state.posts.filter(post => post.username.includes(searchValue));
+  console.log(filteredSearch);
+  this.setState({ posts: filteredSearch})
 }
 
   render() {
     return (
       <div className="App">
-        <SearchBar data={this.state.posts} />
+        <SearchBar data={this.state.posts} filterSearch={this.filterSearch}/>
         {this.state.posts.map(post => <PostContainer key={post.imageUrl} post={post} />)}
       </div>
     );

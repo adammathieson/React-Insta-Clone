@@ -20,6 +20,12 @@ class SearchBar extends React.Component {
         }
     }
 
+handleChanges = (e) => {
+    this.setState({ search: e.target.value })
+}
+
+
+
     render() {
         return (
             <WrapperDiv>
@@ -27,11 +33,15 @@ class SearchBar extends React.Component {
                     <ImgLogo alt="instagram camera logo" src={instagramCam}></ImgLogo>
                     <ImgLogo alt="instagram name logo" src={instagramLogo}></ImgLogo>
                 </LogoBoxDiv>
-                <Input 
-                    type="search" 
-                    className="search-bar" 
-                    placeholder="Search">
-                </Input>
+                <form onSubmit={ e => this.props.filterSearch(e, this.state.search)}>
+                    <Input 
+                        type="text" 
+                        className="search-bar" 
+                        placeholder="Search"
+                        value={this.state.search}
+                        onChange={this.handleChanges}>
+                    </Input>
+                </form>
                 <IconBoxDiv>
                     <ImgIcon alt="compass icon" src={compass}></ImgIcon>
                     <ImgIcon alt="like icon" src={like}></ImgIcon>
